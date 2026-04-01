@@ -50,7 +50,7 @@ export default function HomePage() {
   />
       </div>
       <div>          
-      </div>
+    </div>
   <footer className='mb-4'>
     
   </footer>
